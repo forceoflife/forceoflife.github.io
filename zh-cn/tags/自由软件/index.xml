@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自由软件 on 生活之力</title>
+    <link>https://codeandlife.xyz/zh-cn/tags/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 自由软件 on 生活之力</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 Nov 2024 18:02:39 +0800</lastBuildDate>
+    <atom:link href="https://codeandlife.xyz/zh-cn/tags/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源软件，凛冬将至？</title>
+      <link>https://codeandlife.xyz/zh-cn/posts/linusandrussian/</link>
+      <pubDate>Thu, 07 Nov 2024 18:02:39 +0800</pubDate>
+      <guid>https://codeandlife.xyz/zh-cn/posts/linusandrussian/</guid>
+      <description>&lt;p&gt;最近的开源软件社区可谓是风起云涌，遭遇了堪称有史以来最严重的挑战，也是很多人们第一次意识到开源软件和政治这两个看似毫无关系的事物其实从来都是密不可分的。国内的很多相关从业者、爱好者如临大敌，将诸如“开源世界从此崩塌了”、“再也不相信开源软件了”等言论奔走相告，不仅让人发出疑问：开源软件世界的冬天还是来了吗？虽然这次事件确实称得上是一次前所未有的大地震，但在我看来对开源世界的影响却并没有那么夸张。在详细阐述我的看法之前，我们有必要先来回顾一下这次事件本身。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
