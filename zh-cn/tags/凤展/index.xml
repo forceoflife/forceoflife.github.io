@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>凤展 on 生活之力</title>
-    <link>https://codeandlife.xyz/zh-cn/tags/%E5%87%A4%E5%B1%95/</link>
+    <link>https://forceoflife.github.io/zh-cn/tags/%E5%87%A4%E5%B1%95/</link>
     <description>Recent content in 凤展 on 生活之力</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 12 Nov 2022 04:07:41 +0800</lastBuildDate>
-    <atom:link href="https://codeandlife.xyz/zh-cn/tags/%E5%87%A4%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://forceoflife.github.io/zh-cn/tags/%E5%87%A4%E5%B1%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>围炉夜话（2）——辩论的终点？</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/wlyh/wlyh2/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/wlyh/wlyh2/</link>
       <pubDate>Sat, 12 Nov 2022 04:07:41 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/wlyh/wlyh2/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/wlyh/wlyh2/</guid>
       <description></description>
     </item>
     <item>
       <title>围炉夜话（1）——快到终点了吗？</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/wlyh/wlyh1/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/wlyh/wlyh1/</link>
       <pubDate>Wed, 26 Oct 2022 03:33:41 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/wlyh/wlyh1/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/wlyh/wlyh1/</guid>
       <description></description>
     </item>
   </channel>

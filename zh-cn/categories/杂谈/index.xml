@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杂谈 on 生活之力</title>
-    <link>https://codeandlife.xyz/zh-cn/categories/%E6%9D%82%E8%B0%88/</link>
+    <link>https://forceoflife.github.io/zh-cn/categories/%E6%9D%82%E8%B0%88/</link>
     <description>Recent content in 杂谈 on 生活之力</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 07 Nov 2024 18:02:39 +0800</lastBuildDate>
-    <atom:link href="https://codeandlife.xyz/zh-cn/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://forceoflife.github.io/zh-cn/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>开源软件，凛冬将至？</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/linusandrussian/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/linusandrussian/</link>
       <pubDate>Thu, 07 Nov 2024 18:02:39 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/linusandrussian/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/linusandrussian/</guid>
       <description>&lt;p&gt;最近的开源软件社区可谓是风起云涌，遭遇了堪称有史以来最严重的挑战，也是很多人们第一次意识到开源软件和政治这两个看似毫无关系的事物其实从来都是密不可分的。国内的很多相关从业者、爱好者如临大敌，将诸如“开源世界从此崩塌了”、“再也不相信开源软件了”等言论奔走相告，不仅让人发出疑问：开源软件世界的冬天还是来了吗？虽然这次事件确实称得上是一次前所未有的大地震，但在我看来对开源世界的影响却并没有那么夸张。在详细阐述我的看法之前，我们有必要先来回顾一下这次事件本身。&lt;/p&gt;</description>
     </item>
     <item>
       <title>为什么要写博客</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/whyblog/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/whyblog/</link>
       <pubDate>Sat, 07 Sep 2024 00:32:28 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/whyblog/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/whyblog/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这篇文章阐述了我要坚持写博客的原因，以及我搭建博客的思路。&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>往事——评书</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/wangshi-pingshu/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/wangshi-pingshu/</link>
       <pubDate>Mon, 25 Dec 2023 23:52:00 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/wangshi-pingshu/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/wangshi-pingshu/</guid>
       <description></description>
     </item>
     <item>
       <title>一场面试引发的思考</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/liveincollege/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/liveincollege/</link>
       <pubDate>Wed, 20 Sep 2023 01:14:05 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/liveincollege/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/liveincollege/</guid>
       <description></description>
     </item>
   </channel>

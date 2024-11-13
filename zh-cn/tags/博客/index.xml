@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>博客 on 生活之力</title>
-    <link>https://codeandlife.xyz/zh-cn/tags/%E5%8D%9A%E5%AE%A2/</link>
+    <link>https://forceoflife.github.io/zh-cn/tags/%E5%8D%9A%E5%AE%A2/</link>
     <description>Recent content in 博客 on 生活之力</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 07 Sep 2024 00:32:28 +0800</lastBuildDate>
-    <atom:link href="https://codeandlife.xyz/zh-cn/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://forceoflife.github.io/zh-cn/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>为什么要写博客</title>
-      <link>https://codeandlife.xyz/zh-cn/posts/whyblog/</link>
+      <link>https://forceoflife.github.io/zh-cn/posts/whyblog/</link>
       <pubDate>Sat, 07 Sep 2024 00:32:28 +0800</pubDate>
-      <guid>https://codeandlife.xyz/zh-cn/posts/whyblog/</guid>
+      <guid>https://forceoflife.github.io/zh-cn/posts/whyblog/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;这篇文章阐述了我要坚持写博客的原因，以及我搭建博客的思路。&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
